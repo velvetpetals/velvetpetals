@@ -1,0 +1,56 @@
+[
+  {
+    "id": "p1",
+    "name": "Floral A-line Kurti",
+    "short": "Lightweight cotton kurti with floral print",
+    "description": "Comfortable A-line kurti in breathable cotton — perfect for everyday wear.",
+    "price": 1199,
+    "category": "Kurti",
+    "image": "https://source.unsplash.com/collection/888146/800x800?sig=1"
+  },
+  {
+    "id": "p2",
+    "name": "Silk Blend Dress",
+    "short": "Elegant midi dress with drape detail",
+    "description": "Semi-formal silk-blend dress with feminine drape. Ideal for events and evening wear.",
+    "price": 2499,
+    "category": "Dresses",
+    "image": "https://source.unsplash.com/collection/888146/800x800?sig=2"
+  },
+  {
+    "id": "p3",
+    "name": "Casual Crop Top",
+    "short": "Breathable knit crop top",
+    "description": "Soft knit crop top that pairs perfectly with high-waisted jeans and skirts.",
+    "price": 799,
+    "category": "Tops",
+    "image": "https://source.unsplash.com/collection/888146/800x800?sig=3"
+  },
+  {
+    "id": "p4",
+    "name": "Embroidered Anarkali",
+    "short": "Hand-embroidered anarkali with lining",
+    "description": "Handcrafted embroidery and comfortable lining make this anarkali a go-to for festive days.",
+    "price": 3999,
+    "category": "Anarkali",
+    "image": "https://source.unsplash.com/collection/888146/800x800?sig=4"
+  },
+  {
+    "id": "p5",
+    "name": "Chiffon Wrap Dress",
+    "short": "Lightweight wrap dress for breezy comfort",
+    "description": "Flowy chiffon wrap dress that flatters many body types — perfect for daytime events.",
+    "price": 1899,
+    "category": "Dresses",
+    "image": "https://source.unsplash.com/collection/888146/800x800?sig=5"
+  },
+  {
+    "id": "p6",
+    "name": "Printed Long Kurti",
+    "short": "Rayon kurti with elegant prints",
+    "description": "Long kurti with soft rayon fabric and vibrant prints for everyday and festive use.",
+    "price": 1399,
+    "category": "Kurti",
+    "image": "https://source.unsplash.com/collection/888146/800x800?sig=6"
+  }
+]
